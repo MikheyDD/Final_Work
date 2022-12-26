@@ -35,8 +35,6 @@ string[] GetArrayOfShorterElemets(string[] arr, int maxLenght)
     return result;
 }
 
-
-
 void Print(string[] array)
 {
     foreach (var item in array)
